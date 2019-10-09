@@ -7,8 +7,6 @@
 //This code was created via the https://www.onlinegdb.com/online_c++_compiler# for the language of C++ 17
     //this might be the reason for any unknown errors
 
-//Link to GitHub: 
-
 /*Project: Maze 2 (Due at the end of Topic 2)
 Replace the 2-dimensional array of objects in your Maze 1 program with linked lists of the same objects. The linked lists can be single, double, or circular as you deem appropriate for your implementation. Make as few changes as possible in the rest of the program. Write up what changes to Maze 1 would have reduced the number of such changes necessary. In retrospect, how would you have written Maze 1 differently?
 */
